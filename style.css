@@ -18,7 +18,6 @@ h1,
 h2,
 h3,
 .price {
-  font-family: 'Roboto Serif', serif;
   text-transform: uppercase;
   color: #2D2C2A;
 }
@@ -64,9 +63,12 @@ section ul li h3 {
   margin-bottom: 12px
 }
 
+.details {
+  margin-bottom: 12px;
+}
+
 /* Descrição do nome do alimento */
 .description {
   color: rgba(0, 0, 0, 0.6);
   line-height: 21px;
-  margin-bottom: 15px;
 }
