@@ -51,7 +51,7 @@ ul {
 section .titleFood {
   background: #FED7AA;
   border-radius: 5px;
-  margin-bottom: 8px;
+  padding: 5px;
   text-align: center;
   font-size: 18px;
 }
@@ -67,6 +67,6 @@ section ul li h3 {
 /* Descrição do nome do alimento */
 .description {
   color: rgba(0, 0, 0, 0.6);
-  margin-bottom: 16px;
   line-height: 21px;
+  margin-bottom: 15px;
 }
